@@ -1,4 +1,4 @@
-package Questions;
+
 public class GreaterNumberThree {
     public static void main(String[] args){
         int a = 21;
